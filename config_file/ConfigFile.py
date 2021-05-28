@@ -1,0 +1,5 @@
+path_chrome_driver = "../Todoist_Test/driver_interactions/chromedriver"
+url_login = "https://todoist.com/Users/showLogin"
+url_tasks_library = "https://randomtodolistgenerator.herokuapp.com/library"
+email = "edgarn34@gmail.com"
+password = "Test.Psw1"
